@@ -1,0 +1,39 @@
+h1{
+    color:white
+
+}
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-between;
+    border-style: dotted;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius:30px;
+}
+
+h2{
+display:flex;
+justify-content:center
+}
+
+.grid{
+    display:flex;
+flex-wrap: wrap; 
+justify-content:space-evenly;
+
+
+}
+p{
+    text-align:center;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+body{
+    background-color:rgb(247, 194, 169)
+}
+.item{
+    border-style:double;
+}
